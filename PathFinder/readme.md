@@ -5,3 +5,6 @@ I have an idea, possibly taking screenshots, running them trough some fancy pyth
 actually have to do to make it learn really. All i know is with GML only, it is impossible i think. I could tell the AI the position of the flag and all, but maybe
 that's cheating. And what about is this learning? Sure a path, and the choiches are weighted, but if i move the flag, and even if i tell it where it is, how on earth will
 i be able to make it think? This may be beyond the capabilities of the avarage high schooler.
+we may see later.
+2022. 07. 09.
+-Azsimuth
